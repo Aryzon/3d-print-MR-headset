@@ -16,7 +16,8 @@ On FDM printers place the flat front-most surface on the print bed. Print the pa
 4) Use a brim layer if curling up from the printbed is an issue.
 5) Turn on support. If you are confident your printer can print up to a 45 degree overhang angle you can tweak the support angle / overhang threshold so it looks like this:
 
-![Screenshot](Docs/SupportAngle.png)
+![](/Media/SupportAngle.png)
+<img src="/Media/SupportAngle.png"  width="50%" height="50%">
 Figure: Overhang threshold = 79 in XYZPrint
 
 Tip: Lowering the print speed helps to reduce the chances of many issues.

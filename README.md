@@ -14,9 +14,10 @@ On FDM printers place the flat front-most surface on the print bed. Print the pa
 2) A layer height of 0.2 mm will provide great results, smaller is not necessary.
 3) Use an infill percentage of 10-20%, higher will cause a heavier headset, meaning less comfortable.
 4) Use a brim layer if curling up from the printbed is an issue.
-5) Turn on support, if you are confident your printer can print up to a 45 degree angle tweak the support angle so it looks like this:
+5) Turn on support. If you are confident your printer can print up to a 45 degree overhang angle you can tweak the support angle / overhang threshold so it looks like this:
 
 ![Screenshot](Docs/SupportAngle.jpg)
+Figure: Overhang threshold = 79 in XYZPrint
 
 Tip: Lowering the print speed helps to reduce the chances of many issues.
 

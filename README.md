@@ -1,6 +1,9 @@
 # 3d-print-MR-headset
 Here you will find the 3D files which contain the Aryzon 3D printable MR headset. This headset uses your iOS or Android phone to show content in true volumetric 3D, similar to other expensive headsets like the Microsoft HoloLens. It is developed by us at Aryzon and works with our AR Studio app so you can easily visualize models from Sketchfab, Google Poly or your own 3D models.
 
+## Remix the design
+We have open sourced the design of the headset and anyone is welcome to change it or make recommendations to improve it.
+
 ## The parts
 There are some parts that cannot be printed, like the visor, mirror, lenses and headband. You can order these parts here: https://www.aryzon.com/3dprint
 
@@ -30,13 +33,10 @@ There are two basic checks to see if your phone is supported:
 2) Your phone will need to be able to do room-scale tracking. You can see how well your phone does this by trying out the Aryzon AR Studio app.
 
 ## Unity3D Developers
-All our headsets including the 3D printed one work with our Unity SDK, any Unity dev can easily create their own app for the headset. (You can even build HoloLens applications for your phone!) More details here: https://www.aryzon.com/creators.
+All our headsets including the 3D printed one work with our Unity SDK, any Unity dev can easily create their own app for the headset. (You can even build HoloLens applications unsing MRTK 2+ for your phone!) More details here: https://www.aryzon.com/creators.
 
 ## Idea behind the design
 Our focus has been to make this headset easy to print and assemble so it can be printed by the average 3D printing enthusiast. The design therefore exists of only 2 parts to print and requires only little support material.
-
-## Remix the design
-We have open sourced the design of the headset and anyone is welcome to change it or make recommendations to improve it.
 
 # License
 All files in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See file LICENSE for more details.

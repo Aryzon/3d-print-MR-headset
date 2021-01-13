@@ -33,7 +33,7 @@ There are two basic checks to see if your phone is supported:
 2) Your phone will need to be able to do room-scale tracking. You can see how well your phone does this by trying out the Aryzon AR Studio app.
 
 ## Unity3D Developers
-All our headsets including the 3D printed one work with our Unity SDK, any Unity dev can easily create their own app for the headset. (You can even build HoloLens applications unsing MRTK 2+ for your phone!) More details here: https://www.aryzon.com/creators.
+All our headsets including the 3D printed one work with our Unity SDK, any Unity dev can easily create their own app for the headset. (You can even build HoloLens applications using MRTK 2+ for your phone!) More details here: https://www.aryzon.com/creators.
 
 ## Idea behind the design
 Our focus has been to make this headset easy to print and assemble so it can be printed by the average 3D printing enthusiast. The design therefore exists of only 2 parts to print and requires only little support material.

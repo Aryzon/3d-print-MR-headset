@@ -5,7 +5,9 @@ Here you will find the 3D files which contain the Aryzon 3D printable MR headset
 We have open sourced the design of the headset and anyone is welcome to change it or make recommendations to improve it.
 
 ## The parts
-There are some parts that cannot be printed, like the visor, mirror, lenses and headband. You can order these parts here: https://www.aryzon.com/3dprint
+There are some parts that cannot be printed, like the visor, mirror, lenses, headband and (new in V1.1) elastic band. You can order these parts here: https://www.aryzon.com/3dprint.
+
+Tip: If you do not have the elastic band contact us to get it or use a hair elastic.
 
 ## Print instructions
 On FDM printers place the flat front-most surface on the print bed. Print the parts at 100% of their size. We have had great results with a layer height of 0.2 mm. A smaller layer height is possible but will make your print a lot slower without much benefit since this is quite a large print.
@@ -14,14 +16,14 @@ On FDM printers place the flat front-most surface on the print bed. Print the pa
 2) A layer height of 0.2 mm will provide great results, smaller is not necessary.
 3) Use an infill percentage of 10-20%, higher will cause a heavier headset, meaning less comfortable.
 4) Use a brim layer if curling up from the printbed is an issue.
-5) Turn on support. If you are confident your printer can print up to a 45 degree overhang angle you can tweak the support angle / overhang threshold so it looks like this (Overhang Threshold = 79 in XYZPrint):
+5) Turn on support. If you are confident your printer can print up to a 45 degree overhang angle you can tweak the support angle / overhang threshold so it looks like this. (Overhang Threshold = 79 in XYZPrint):
 
 <img src="/Media/SupportAngle.png"  width="50%" height="50%"><br>
 
 Tip: Lowering the print speed helps to reduce the chances of many issues.
 
 ### Supported printers
-Any 3D printer with a print bed of at least 200x150 mm that can print 150 mm high is supported.
+Any 3D printer with a print bed of at least 190x155 mm that can print 150 mm high is supported.
 If really necessary you can cut the model in half, print both halves and glue them together. A heated print bed is advised since curling can more quickly become an issue on larger parts.
 
 ## Assembly instructions

@@ -23,7 +23,7 @@ On FDM printers place the flat front-most surface on the print bed. Print the pa
 Tip: Lowering the print speed helps to reduce the chances of many issues.
 
 ### Supported printers
-Any 3D printer with a print bed of at least 200x160 mm that can print 150 mm high is supported.
+Any 3D printer with a print bed of at least 190x155 mm that can print 150 mm high is supported.
 If really necessary you can cut the model in half, print both halves and glue them together. A heated print bed is advised since curling can more quickly become an issue on larger parts.
 
 ## Assembly instructions

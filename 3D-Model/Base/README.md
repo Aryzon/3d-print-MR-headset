@@ -30,4 +30,5 @@ From Base to Printable model
 	Scale
 	x: 7.0 y: 1.5 z: 1.4
 4) (Only for the main body) add a 'Boolean' modifier on the Main body, set it to Union and choose the cube from step 3 as the object.
-5) Select the model you want to export. Choose File -> Export -> STL. Set it to export only the selected object.
+5) With another 'Boolean' modifer set to 'Difference' slice a thin piece off the front of the main body and the phone holder to make it flat. Use a large enough cube for example as the object. 
+5) Select the model you want to export. Choose File -> Export -> STL. Set it to export only the selected object and choose the up axis of your printer, (often Y-up).
